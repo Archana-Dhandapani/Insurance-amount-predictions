@@ -1,2 +1,4 @@
 # Insurance-amount-predictions
-Create a linear regressions model for insurance amount predictions using python and ML
+Create a linear regression model for predicting insurance amounts using Python and machine learning.
+
+
